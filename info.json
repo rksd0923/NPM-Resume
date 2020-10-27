@@ -1,0 +1,24 @@
+{
+    "name": "Ruben Rivera",
+    "linkedin": "www.linkedin.com/in/ruben-rivera",
+    "github": "https://github.com/rksd0923",
+    "email": "rerivera76@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
